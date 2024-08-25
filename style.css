@@ -1,0 +1,23 @@
+body
+{   
+    padding: 40px;
+    margin: auto;
+    background-color:#009294;;
+    color: #FFFFFF;
+}
+h1
+{
+    background-color: yellow;
+    text-align: center;
+}
+h3
+{
+    font-size: 16px;
+    color: #FF0000;
+}
+ol
+{
+    border-style: dashed;
+    border-width: 4px;
+    background-color: blue;
+}
